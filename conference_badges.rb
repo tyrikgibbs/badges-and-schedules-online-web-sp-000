@@ -4,3 +4,4 @@ def badge_maker(name)
 end
 
 def assign_rooms
+end
